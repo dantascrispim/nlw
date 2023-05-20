@@ -3,7 +3,7 @@
  projeto desenvolvido na NLW-spacetime da Rocketseat!
 
 <p align="center"> 
-    <img src=".github/preview.png" alt="Demostração do Projeto" width="100%"/>
+    <img src=".preview.png" alt="Demostração do Projeto" width="100%"/>
 </p>
 
 ## 🖥️ Esse é um projeto Web Resposivo de uma cápsula do tempo para exibir memórias em uma linha do tempo.
